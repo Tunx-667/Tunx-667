@@ -5,7 +5,7 @@
 - Đang tập trung nâng cao tư duy thuật toán và lập trình hệ thống.
 - Mục tiêu: Trở thành Fullstack / Software Engineer chuyên nghiệp.
 
->## Tech stack 
+## Tech stack 
 >**Languages:** C, Python, HTML5, CSS3
 
 >**Database:** SQL (MySQl)
